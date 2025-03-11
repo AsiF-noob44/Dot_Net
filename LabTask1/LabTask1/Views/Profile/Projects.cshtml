@@ -1,0 +1,25 @@
+﻿@model List<LabTask1.Models.Projects>
+
+@{
+    ViewData["Title"] = "Projects";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Projects</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            @foreach (var project in Model)
+            {
+                <div class="card mb-3 border-primary shadow">
+                    <div class="card-body">
+                        <h4 class="card-title text-primary"><strong>@project.Title</strong></h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Course: @project.Course</h6>
+                        <p class="card-text">@project.Description</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

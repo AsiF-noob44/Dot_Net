@@ -1,0 +1,26 @@
+﻿@model List<LabTask1.Models.Reference>
+
+@{
+    ViewData["Title"] = "References";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">References</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            @foreach (var reference in Model)
+            {
+                <div class="card mb-3 border-success shadow">
+                    <div class="card-body">
+                        <h4 class="card-title text-success"><strong>@reference.Name</strong></h4>
+                        <h6 class="card-subtitle mb-2 text-muted">@reference.Designation</h6>
+                        <p class="card-text"><strong>Organization:</strong> @reference.Organization</p>
+                        <p class="card-text"><strong>Contact:</strong> @reference.Contact</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

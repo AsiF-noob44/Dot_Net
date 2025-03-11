@@ -1,0 +1,26 @@
+﻿@model List<LabTask1.Models.Education>
+
+@{
+    ViewData["Title"] = "Education";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">My Educational Qualification</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            @foreach (var edu in Model)
+            {
+                <div class="card mb-3 border-dark shadow">
+                    <div class="card-body">
+                        <h5 class="card-title"><strong>Degree:</strong> @edu.Degree</h5>
+                        <p class="card-text"><strong>Institute:</strong> @edu.Institute</p>
+                        <p class="card-text"><strong>Year:</strong> @edu.Year</p>
+                        <p class="card-text"><strong>Result:</strong> @edu.Result</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
