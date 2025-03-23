@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asif\\source\\repos\\LabTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\models\\dateofbirthvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\models\\dateofbirthvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|c:\\users\\asif\\source\\repos\\labtask2\\labtask2\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5527D3F4-1CCC-4B64-92B6-FA2518AC237B}|LabTask2\\LabTask2.csproj|solutionrelative:labtask2\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Scripts\\jquery.validate.js",
+              "RelativeDocumentMoniker": "LabTask2\\Scripts\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Scripts\\jquery.validate.js",
+              "RelativeToolTip": "LabTask2\\Scripts\\jquery.validate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-23T16:30:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateOfBirthValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Models\\DateOfBirthValidator.cs",
+              "RelativeDocumentMoniker": "LabTask2\\Models\\DateOfBirthValidator.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Models\\DateOfBirthValidator.cs",
+              "RelativeToolTip": "LabTask2\\Models\\DateOfBirthValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:27:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LabTask2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LabTask2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:14:34.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LabTask2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LabTask2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T15:58:47.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Views\\Student\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "LabTask2\\Views\\Student\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Views\\Student\\Welcome.cshtml",
+              "RelativeToolTip": "LabTask2\\Views\\Student\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T16:13:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabTask2\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "LabTask2\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T16:12:14.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LabTask2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Models\\Student.cs",
+              "RelativeToolTip": "LabTask2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:07:15.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "LabTask2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "LabTask2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:06:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LabTask2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\LabTask2\\LabTask2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LabTask2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:59:51.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

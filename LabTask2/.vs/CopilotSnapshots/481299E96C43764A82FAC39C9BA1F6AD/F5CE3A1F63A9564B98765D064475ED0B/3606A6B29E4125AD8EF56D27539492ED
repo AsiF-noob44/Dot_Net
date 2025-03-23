@@ -1,0 +1,26 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+public class DateOfBirthValidator : ValidationAttribute
+{
+    public override bool IsValid(object value)
+    {
+        if (value is DateTime dob)
+        {
+            int age = DateTime.Today.Year - dob.Year;
+            if (dob > DateTime.Today.AddYears(-age)) age--;
+
+            return age >= 18;
+        }
+        return false;
+    }
+
+    protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+    {
+        if (IsValid(value))
+        {
+            return ValidationResult.Success;
+        }
+        return new ValidationResult("Age must be greater than 18.");
+    }
+}

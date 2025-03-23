@@ -1,0 +1,30 @@
+﻿@model LabTask2.Models.Student
+
+@{
+    ViewBag.Title = "Student Form";
+}
+
+<h2>Validation</h2>
+
+<p class="text-danger">@Html.ValidationSummary(true)</p>
+
+<form method="post">
+    <label>Name:</label>
+    <input type="text" name="Name" value="@Model.Name" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessageFor(m => m.Name)</p>
+
+    <label>ID:</label>
+    <input type="text" name="ID" value="@Model.ID" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessageFor(m => m.ID)</p>
+
+    <label>Date of Birth:</label>
+    <input type="date" name="DateOfBirth" value="@Model.DateOfBirth.ToString("yyyy-MM-dd")" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessageFor(m => m.DateOfBirth)</p>
+
+    <label>Email:</label>
+    <input type="email" name="Email" value="@Model.Email" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessageFor(m => m.Email)</p>
+
+    <br />
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>
