@@ -1,0 +1,26 @@
+﻿@model List<ClassTask1.EF.Category>
+
+<h2>Categories</h2>
+<a href="/Category/Create" class="btn btn-primary mt-1 mb-1">Create</a>
+@if (TempData["Msg"] != null)
+{
+    <p class="alert alert-success">@TempData["Msg"]</p>
+}
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var category in Model)
+    {
+        <tr>
+            <td>@category.Id</td>
+            <td>@category.Name</td>
+            <td>
+                <a href="/Category/Edit/@category.Id" class="btn btn-warning">Edit</a>
+                <a href="/Category/Delete/@category.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

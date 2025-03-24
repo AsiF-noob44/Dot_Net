@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|c:\\users\\asif\\source\\repos\\classtask1\\classtask1\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{46893924-F278-422C-ABA9-4CD58ADAD47E}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:52:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:48:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:47:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:47:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:46:48.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:46:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:45:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ClassTask1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ClassTask1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:44:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ClassTask1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ClassTask1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:42:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T06:02:57.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClassTask1\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ClassTask1\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T06:02:18.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ClassTask1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ClassTask1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:54:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "ClassTask1\\EF\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.Designer.cs",
+              "RelativeToolTip": "ClassTask1\\EF\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:21:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "ClassTask1\\EF\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.Context.tt",
+              "RelativeToolTip": "ClassTask1\\EF\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T05:14:18.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.cs",
+              "RelativeDocumentMoniker": "ClassTask1\\EF\\Model1.cs",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.cs",
+              "RelativeToolTip": "ClassTask1\\EF\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:14:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "ClassTask1\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Asif\\source\\repos\\ClassTask1\\ClassTask1\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ClassTask1\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-24T05:09:25.516Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
